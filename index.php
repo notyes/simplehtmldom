@@ -42,16 +42,3 @@
 
     echo json_encode($a);
 
-
-    // echo '<pre>';
-    // print_r( $data_keyword );
-    // echo '</pre>';
-
-
-
-        
-    // echo '<pre>';
-    // print_r( $html->find( '.pr' ) );
-    // echo '</pre>';
-
-    // die();
